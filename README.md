@@ -8,7 +8,5 @@
 
 Hi👋! I'm Qin Liu. Here are my links:
 
-- [Home page and Chinese Blog](https://lqhl.me)
-- [English Blog](https://blog.lqhl.me)
-- [Notion Notes](https://lqhl.notion.site)
+- [Blog](https://lqhl.me)
 - [Twitter](https://twitter.com/qliu90)
